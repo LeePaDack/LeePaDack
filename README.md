@@ -47,9 +47,10 @@
 <br>
 <hr>
 <br>
+-->
 <div align = center>
   <h3> Tistory 블로그 </h3>
-  https://mimingmangmyong.tistory.com/
+ https://padacklee.tistory.com/
 </div>
 <br>
 <!--![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=baki-zero) >
