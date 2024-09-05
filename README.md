@@ -9,9 +9,11 @@
 <!-- 여기다가 이제 SNS 링크 같은거 걸어놓기 -->
 <hr>
 <br>
+<!--
 <div align=center>
    <h3>:책: Platforms & Studying :책:</h3>
 </div>
+-->
 <!-- 나중에는 윗줄이 Platforms , 아랫줄이 studying -->
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
